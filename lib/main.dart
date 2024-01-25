@@ -34,7 +34,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   final AndroidInitializationSettings initializationSettingsAndroid =
-      AndroidInitializationSettings('bd_logo');
+      AndroidInitializationSettings('app_icon');
 
   final IOSInitializationSettings initializationSettingsIOS =
       IOSInitializationSettings(
